@@ -1,5 +1,5 @@
 WaveLab 802
-------------
+===========
 
 WaveLab is a library of Matlab routines for wavelet analysis, wavelet-
 packet analysis, cosine-packet analysis and matching pursuit. The
@@ -23,31 +23,17 @@ wavelet-packet analysis, cosine-packet analysis and matching pursuit,
 the library contains scripts which the authors believe will assist in
 learning the practical aspects of wavelet analysis:
 
-    * Scripts that reproduce the figures in the authors' published
-      articles including the de-noising articles of Donoho and Johnstone.
+* Scripts that reproduce the figures in the authors' published articles including the de-noising articles of Donoho and Johnstone.
        
-    * ``Workouts'' that give a quick guide to wavelets (1-d and 2-d);
-      wavelet analysis; wavelet synthesis; wavelet and cosine packets,
-      including the Coifman-Wickerhauser best-basis methodology; matching
-      pursuit; and applications such as data expansion, progressive data
-      transmission image compression, speech segmentation, de-noising, fast
-      matrix multiplication in wavelet bases, etc.
+ * ``Workouts'' that give a quick guide to wavelets (1-d and 2-d); wavelet analysis; wavelet synthesis; wavelet and cosine packets, including the Coifman-Wickerhauser best-basis methodology; matching pursuit; and applications such as data expansion, progressive data transmission image compression, speech segmentation, de-noising, fast matrix multiplication in wavelet bases, etc.
 
 WaveLab also offers:
 
-    * A library of datasets that are easily accessible to the user.  Besides
-      artifical signals that have scientific or pedagogic appeal, real data
-      ranging from an image of Ingrid Daubechies to a recording by Enrico
-      Caruso are included.
+* A library of datasets that are easily accessible to the user.  Besides artificial signals that have scientific or pedagogic appeal, real data ranging from an image of Ingrid Daubechies to a recording by Enrico Caruso are included.
       
-    * A point-and-click browser that allows the user to select data, perform
-      various transforms or de-noising operations, and then see the results
-      without using the Matlab command-line interface.
+* A point-and-click browser that allows the user to select data, perform various transforms or de-noising operations, and then see the results without using the Matlab command-line interface.
       
-    * Extensive documentation, including on-line documentation for each
-      function, Contents files for each subdirectory, a Reference Manual,
-      an Architecture Manual and an overview document (About WaveLab) that
-      introduces the software to a first-time user.
+ * Extensive documentation, including on-line documentation for each function, Contents files for each subdirectory, a Reference Manual, an Architecture Manual and an overview document (About WaveLab) that introduces the software to a first-time user.
 
 WaveLab is freeware and may be obtained via World-Wide-Web:
     
@@ -58,8 +44,7 @@ WaveLab is freeware and may be obtained via World-Wide-Web:
 Please send comments or questions to wavelab@stat.stanford.edu
 
 
-Getting Started
----------------
+## Getting Started
 
 The subdirectory Documentation contains several files which should
 enable the user to get started in using this package.  The first things
